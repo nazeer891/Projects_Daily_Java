@@ -19,3 +19,8 @@ Difficulty Split:
 * **Description:** The system generates a random number, and the user has to guess it with higher/lower hints.
 * **Concepts/Libraries:** `java.util.Random`, `while` loops, conditional logic.
 **Status**: Done
+
+* **Day 3: Temperature Converter**
+* **Description:** Converts temperatures between Celsius, Fahrenheit, and Kelvin based on user choice.
+* **Concepts/Libraries:** Methods, basic data types (`double`), input validation.
+**Status**: Done
